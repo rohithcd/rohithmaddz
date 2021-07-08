@@ -17,11 +17,9 @@
 
 ---
  ### :zap: GitHub Stats
-<details>
  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithmaddz&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohithmaddz&show_icons=true&theme=dark" />
 
-</details>
 
 [twitter]: https://twitter.com/Rohith_maddz7
 [instagram]: https://www.instagram.com/_r.ohith_/
