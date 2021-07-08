@@ -20,7 +20,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Rohith's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rohith_maddz&show_icons=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith_maddz&theme=dark" />
+
 
 </details>
 
