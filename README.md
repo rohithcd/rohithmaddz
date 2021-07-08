@@ -16,11 +16,10 @@
 <br />
 
 ---
-
+ ### :zap: GitHub Stats
 <details>
-  <summary> GitHub Stats</summary>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithmaddz&theme=dark" />
+ 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithmaddz&show_icons=true&theme=dark" />
 
 </details>
 
