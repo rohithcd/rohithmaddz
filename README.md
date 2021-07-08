@@ -18,7 +18,7 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary> GitHub Stats</summary>
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithmaddz&theme=dark" />
 
