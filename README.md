@@ -2,7 +2,7 @@
 
 ## I'm a Web Developer, App Developer, Data Scientist
 
-- 🔭 I'm 2nd Year Btech CS Student at CUSAT
+- 🔭 I'm 3rd Year Btech CS Student at CUSAT
 - 🌱 I’m currently brushing up Machine Learning Skills
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
